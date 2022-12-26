@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marwan Mohamed</h1>
-<h3 align="center">A passionate software engineer from Egypt</h3>
+<h3 align="center">A passionate software engineer</h3>
 
  :school: I am a `Computer Science Fresh Graduate` from Faculty of Science at Alexandria University
  - 📫 How to reach me **marawanmohamed9876@gmail.com**
