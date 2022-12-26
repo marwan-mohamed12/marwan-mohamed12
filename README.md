@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Marwan Mohamed</h1>
 <h3 align="center">A passionate software engineer from Egypt</h3>
 
+- 🌱 I’m currently learning **Vue.js**
+
+- 📫 How to reach me **marawanmohamed9876@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/@marawanmohamed9876" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@marawanmohamed9876" height="30" width="40" /></a>
