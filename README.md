@@ -21,7 +21,7 @@
 
 ## 🛠 Languages and Tools
 
-<p align="left"> 
+<p align="center"> 
     <a href="https://www.w3.org/TR/html5/"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" title="HTML5"/></a>
     <a href="https://www.w3.org/TR/css/"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" title="CSS3"/></a>
     <a href="https://getbootstrap.com/"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" title="Bootstrap"/></a>
