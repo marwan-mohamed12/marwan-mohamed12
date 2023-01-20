@@ -4,8 +4,13 @@
 :school: I am a `Computer Science Fresh Graduate` from Faculty of Science at Alexandria University
 
 - 🌱 I’m currently learning **Vue.js**
+
 -  I’m currently open for: new `job opportunity`.
+
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/15YmKdD1uNO0SuLb0EVHH-F_KGd7Os8EP/view?usp=share_link)
+
 - 📫 How to reach me **marawanmohamed9876@gmail.com**
+
 
 
 <h3 align="left">Connect with me:</h3>
