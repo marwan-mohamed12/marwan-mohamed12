@@ -1,6 +1,6 @@
 <h1 align="left">Hi there, I'm Marwan Mohamed <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height ="25px"> </h1>
 
-<h3 align="center">A passionate software engineer</h3>
+<h3 align="center">A Passionate Software Engineer</h3>
 
 :school: I'm a `Computer Science Fresh Graduate` from Faculty of Science at Alexandria University
 
