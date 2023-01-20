@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Marwan Mohamed</h1>
+<h1 align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Hi+there%2C+I'm+Marwan+Mohamed+)](https://git.io/typing-svg)</h1>
 <h3 align="center">A passionate software engineer</h3>
 
 :school: I'm a `Computer Science Fresh Graduate` from Faculty of Science at Alexandria University
