@@ -1,5 +1,5 @@
-<!-- <h1 align="center"></h1> -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Hi+there%2C+I'm+Marwan+Mohamed+)](https://git.io/typing-svg)
+<h1 align="center">Hi there, I'm Marwan Mohamed <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height ="25px"> </h1>
+
 <h3 align="center">A passionate software engineer</h3>
 
 :school: I'm a `Computer Science Fresh Graduate` from Faculty of Science at Alexandria University
