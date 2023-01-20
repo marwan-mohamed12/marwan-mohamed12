@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Vue.js**
 
--  I’m currently open for: new `job opportunity`.
+- 🧑🏻‍💻 I’m currently open for: new `job opportunity`.
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/15YmKdD1uNO0SuLb0EVHH-F_KGd7Os8EP/view?usp=share_link)
 
