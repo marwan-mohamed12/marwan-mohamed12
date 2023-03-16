@@ -10,8 +10,6 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1HGIyipvZzqVIjVgb0UVONfdo1QJfsG7N/view?usp=share_link)
 
-- 📫 How to reach me **marawanmohamed9876@gmail.com**
-
 ## 📩 Connect with me
 
 <p align="left">
