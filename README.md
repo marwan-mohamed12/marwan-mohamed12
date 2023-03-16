@@ -4,7 +4,7 @@
 
 :school: I'm a `Computer Science Fresh Graduate` from Faculty of Science at Alexandria University
 
-- 🌱 I’m currently learning **Vue.js**
+- 🌱 I’m currently learning **React.js**
 
 - 🧑🏻‍💻 I'm open to a new `job opportunity`.
 
