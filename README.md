@@ -8,7 +8,7 @@
 
 - 🧑🏻‍💻 I'm open to a new `job opportunity`.
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1-BrSCC7CwfjcdpOMI3nkrwvzyBGM5JXT/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Kjy2b8vj2CLxsVrx4E2CublFDsyC4iTX/view?usp=sharing)
 
 ## 📩 Connect with me
 
