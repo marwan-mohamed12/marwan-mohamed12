@@ -24,7 +24,6 @@
 - :technologist: I love using Software as a solution for every `Problem`.
 - 📄: I’m currently open for a new `job opportunity`, this is [my resume](https://drive.google.com/file/d/1_sireZXSIBaRrkVEin3401N74yuhK96s/view?usp=sharing).
 - ⚡: You can visit [my website](https://marwann-dev.netlify.app/).
-  <h4 align="center">Feel free to reach out to me for a code review, a good laugh, or to discuss the latest animes! 😄</h4>
 <br>
 
 <!--
@@ -86,6 +85,8 @@
  </a>
 
 </p>
+
+<h4 align="center">Feel free to reach out to me for a code review, a good laugh, or to discuss the latest animes! 😄</h4>
 
 <br>
 
