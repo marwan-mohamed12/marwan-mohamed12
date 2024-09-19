@@ -168,5 +168,3 @@
 	  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=marwan-mohamed12&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="marwan-mohamed12" height="230px"/>
 <br/>
 
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
