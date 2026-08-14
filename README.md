@@ -20,7 +20,7 @@
 
 - :factory: I am a `Software Engineer` @Coca-Cola HBC.
 - :school: I'm a `Computer Science Graduate` from Faculty of Science at Alexandria University
-- 🌱: I’m currently learning `Spring` and `Spring boot`.
+- 🌱: I’m experienced in `Spring` and `Spring Boot`.
 - :technologist: I love using Software as a solution for every `Problem`.
 - ⚡: You can visit [my website](https://marwann-dev.netlify.app/).
 <br>
