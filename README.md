@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=11ADF7&width=435&lines=Software+Engineer+%40ISFP;Computer+Science+Graduate;Open+Source+Contributor++;Always+Learning+New+Things" alt="Typing SVG" /></a>
+	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=11ADF7&width=535&lines=Software+Engineer+%40Coca-Cola+HBC;Computer+Science+Graduate;Open+Source+Contributor++;Always+Learning+New+Things" alt="Typing SVG" /></a>
 </p>
 
 
@@ -18,11 +18,10 @@
 
 <br><br>
 
-- :factory: I am a `Junior Software Engineer` @ISFP.
+- :factory: I am a `Software Engineer` @Coca-Cola HBC.
 - :school: I'm a `Computer Science Graduate` from Faculty of Science at Alexandria University
 - 🌱: I’m currently learning `Spring` and `Spring boot`.
 - :technologist: I love using Software as a solution for every `Problem`.
-- 📄: I’m currently open for a new `job opportunity`, this is [my resume](https://drive.google.com/file/d/1WbpAJKMnBbJIK7p7IHyqJZ3zXVITERz-/view?usp=sharing).
 - ⚡: You can visit [my website](https://marwann-dev.netlify.app/).
 <br>
 
